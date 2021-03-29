@@ -7,11 +7,11 @@ I'm a passionate self-taught iOS developer from Moscow.
 - 🌱 I’m currently learning Swift and Objective-C
 
 
-### ⚡ My recent projects ⚡ 
+### ⚡ My recent projects
 
 [![VKClientSample](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=VKClientSample)](https://github.com/rdscoo1/VKClientSample)
 [![StocksApp](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=StocksApp)](https://github.com/rdscoo1/StocksApp)
-[![HealthTracker](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=HealthTracker)](https://github.com/rdscoo1/HealthTracker)
+[![HealthTracker](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=HealthTracker&&show_icons=true&bg_color=00000000&count_private=true&text_color=3498db)](https://github.com/rdscoo1/HealthTracker)
 [![GitHubFollowers](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=GitHubFollowers)](https://github.com/rdscoo1/GitHubFollowers)
 
 ### 📫 Connect with me 
