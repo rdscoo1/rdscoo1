@@ -11,7 +11,7 @@ I'm a passionate self-taught iOS developer from Moscow.
 
 [![VKClientSample](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=VKClientSample&show_icons=true&bg_color=00000000&text_color=3498db)](https://github.com/rdscoo1/VKClientSample)
 [![StocksApp](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=StocksApp&show_icons=true&bg_color=00000000&text_color=3498db)](https://github.com/rdscoo1/StocksApp)
-[![HealthTracker](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=HealthTracker&show_icons=true&bg_color=00000000&text_color=3498db)](https://github.com/rdscoo1/HealthTracker)
+[![HealthTracker](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=HealthTracker&show_icons=true&bg_color=00000000&text_color=8B949E)](https://github.com/rdscoo1/HealthTracker)
 [![GitHubFollowers](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=GitHubFollowers&show_icons=true&bg_color=00000000&text_color=BFBFBF)](https://github.com/rdscoo1/GitHubFollowers)
 
 ### 📫 Connect with me 
