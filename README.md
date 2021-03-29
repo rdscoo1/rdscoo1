@@ -1,4 +1,4 @@
-### Hi there, I'm Roman 👋
+### Hi there, I'm Roman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 I'm a passionate self-taught iOS developer from Moscow. 
 
@@ -11,9 +11,12 @@ I'm a passionate self-taught iOS developer from Moscow.
 
 [![VKClientSample](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=VKClientSample)](https://github.com/rdscoo1/VKClientSample)
 [![StocksApp](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=StocksApp)](https://github.com/rdscoo1/StocksApp)
+[![HealthTracker](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=HealthTracker)](https://github.com/rdscoo1/HealthTracker)
 [![GitHubFollowers](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=GitHubFollowers)](https://github.com/rdscoo1/GitHubFollowers)
 
-### 📫 How to reach me 
+### 📫 Connect with me 
 
-* Message me in Telegram — [@rdscoo1](https://t.me/rdscoo1)
-* E-mail  — [romakhodukin@gmail.com](mailto:romakhodukin@gmail.com)
+[<img align="left" alt="rdscoo1 | Telegram" width="32px" src="https://img.icons8.com/color/100/000000/telegram-app--v1.png" />][telegram]
+[<img align="left" alt="rdscoo1 | Email" width="32px" src="https://img.icons8.com/carbon-copy/100/000000/email.png" />](mailto:romakhodukin@gmail.com)
+
+[telegram]: https://t.me/rdscoo1
