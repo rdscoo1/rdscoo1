@@ -10,7 +10,6 @@ I'm a passionate self-taught iOS developer from Moscow.
 ### ⚡ My recent projects ⚡ 
 
 [![VKClientSample](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=VKClientSample)](https://github.com/rdscoo1/VKClientSample)
-[![HealthTracker](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=HealthTracker)](https://github.com/rdscoo1/HealthTracker)
 [![StocksApp](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=StocksApp)](https://github.com/rdscoo1/StocksApp)
 [![GitHubFollowers](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=GitHubFollowers)](https://github.com/rdscoo1/GitHubFollowers)
 
