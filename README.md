@@ -1,18 +1,14 @@
 ### Hi there, I'm Roman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-I'm a passionate self-taught iOS developer from Moscow. 
-
-- 👀 I enjoy making beautiful app mockups in Figma and impelement them after
-- 🔭 I’m currently working on [StocksApp](https://github.com/rdscoo1/StocksApp)
-- 🌱 I’m currently learning Swift and Objective-C
+I'm a passionate iOS developer from Moscow, who enjoys making beautiful app mockups in Figma and impelement them after.
 
 
 ### ⚡ My recent projects
 
-[![VKClientSample](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=VKClientSample&show_icons=true&bg_color=00000000&text_color=8B949E)](https://github.com/rdscoo1/VKClientSample)
-[![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=ChatApp&show_icons=true&bg_color=00000000&text_color=8B949E)](https://github.com/rdscoo1/ChatApp)
-[![StocksApp](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=StocksApp&show_icons=true&bg_color=00000000&text_color=8B949E)](https://github.com/rdscoo1/StocksApp)
-[![HealthTracker](https://github-readme-stats.vercel.app/api/pin/?username=rdscoo1&repo=HealthTracker&show_icons=true&bg_color=00000000&text_color=8B949E)](https://github.com/rdscoo1/HealthTracker)
+- [VKClientSample](https://github.com/rdscoo1/VKClientSample)
+- [ChatApp](https://github.com/rdscoo1/ChatApp)
+- [StocksApp](https://github.com/rdscoo1/StocksApp)
+- [HealthTracker](https://github.com/rdscoo1/HealthTracker)
 
 
 ### 📫 Connect with me 
